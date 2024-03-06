@@ -5,5 +5,8 @@ This repository contains a R script, codebook, and tidy dataset created from the
 
 ## Contents Expanded
 R Script
+
 Codebook
+
 Tidy Dataset
+
