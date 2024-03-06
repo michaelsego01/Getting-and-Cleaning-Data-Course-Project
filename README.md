@@ -4,7 +4,7 @@
 This repository contains a R script, codebook, and tidy dataset created from the R script.
 
 ## Contents Expanded
-R Script: run_analysis.R
+#### R Script: run_analysis.R
 
 - run_analysis.R does the following: 
 
@@ -18,11 +18,11 @@ R Script: run_analysis.R
 
   5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Codebook: Codebook.md
+#### Codebook: Codebook.md
 
 This file describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-Tidy Dataset: tidydata.txt
+#### Tidy Dataset: tidydata.txt
 
 This file contains the final tidy data set with the average of each variable for each activity and each subject.
 
